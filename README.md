@@ -14,7 +14,7 @@
 
 ## How to Use
 - Copy the code
-- make a txt file
+- make a new txt file(*highscore.txt*)
 - run in python
 
   
