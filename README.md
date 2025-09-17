@@ -1,7 +1,7 @@
 # 🤔Guess The Number : Game
 
 ## Overview
-- "*Guess The Number*" is a game like its name where user have to fing the specific choosen number in possible least times
+- "*Guess The Number*" is a game like its name where user have to find the specific choosen number in possible least times
 
 ## Features 
 - Used *random* library for random target
